@@ -1,7 +1,7 @@
 <?php require_once('config.php');?>
 <?php require_once(ROOT_PATH . '/includes/header.php'); ?>
 <?php  require_once(ROOT_PATH . '/includes/registration_login.php'); ?>
-<div class="container">
+<div class="container" style=" margin-top: 150px;">
 	
 
 	<div style="width: 40%; margin: 20px auto;">

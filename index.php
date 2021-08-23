@@ -1,5 +1,6 @@
 <?php require_once('config.php');?>
 <?php require_once(ROOT_PATH . '/includes/header.php'); ?>
+<?php require_once( ROOT_PATH . '/includes/registration_login.php') ?>
 
 			<main class="content">
 				<div class="slider">
@@ -39,7 +40,11 @@
 						</div>
 					</div>
 				</div>
-
+				<!-- //banner----->
+				<div class="bannerlogin" style="margin-left: 50px;">
+				<?php require_once(ROOT_PATH . '/includes/banner.php');?>
+				</div>
+				<!-- // banner -->
 				<div class="fullwidth-block features-section">
 					<div class="container">
 						<div class="row">
