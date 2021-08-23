@@ -545,15 +545,31 @@ table {
   margin: 0;
   padding: 0;
 }
-/* BANNER: Welcome message;
-.banner {
-  margin: 5px auto;
-  min-height: 400px;
-  color: white;
-  border-radius: 5px;
-  background-image: url(/dummy/broad.jpg);
-  background-size: 100% 100%;
-} */
+/* NOTIFICATION MESSAGES */
+.message {
+	width: 100%; 
+	margin: 0px auto; 
+	padding: 10px 0px; 
+	color: #3c763d; 
+	background: #dff0d8; 
+	border: 1px solid #3c763d;
+	border-radius: 5px; 
+	text-align: center;
+}
+.error {
+	color: #a94442; 
+	background: #f2dede; 
+	border: 1px solid #a94442; 
+	margin-bottom: 20px;
+}
+.validation_errors p {
+	text-align: left;
+	margin-left: 10px;
+}
+.logged_in_info {
+	text-align: right; 
+	padding: 10px;
+}
 /* CONTENT */
 .content {
 	margin: 5px auto;
