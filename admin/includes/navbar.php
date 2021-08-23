@@ -5,6 +5,6 @@
 		</a>
 	</div>
 	<div class="user-info">
-		<span>Isophel</span> &nbsp; &nbsp; <a href="<?php echo BASE_URL . '/logout.php'; ?>" class="logout-btn">logout</a>
+		<span><? php echo user['username'];?></span> &nbsp; &nbsp; <a href="<?php echo BASE_URL . '/logout.php'; ?>" class="logout-btn">logout</a>
 	</div>
 </div>
