@@ -1,5 +1,6 @@
 <?php  include('../config.php'); ?>
 <?php  include(ROOT_PATH . '/admin/includes/admin_functions.php'); ?>
+
 <?php 
 	// Get all admin users from DB
 	$admins = getAdminUsers();
