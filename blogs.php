@@ -2,7 +2,7 @@
 <?php require_once( ROOT_PATH . '/includes/public_functions.php') ?>
 <?php require_once( ROOT_PATH . '/includes/registration_login.php') ?>
 <?php require_once(ROOT_PATH . '/includes/header.php'); ?>
-
+<?php $posts= getPublishedPosts();?>
 
 	<nav class="breadcrumbs" style="margin-top: 150px; margin-left: 50px;">
 						<a href="index.php">Home</a> &rarr;
@@ -13,7 +13,7 @@
 		<?php require_once(ROOT_PATH . '/includes/banner.php');?>
 	</div>
 		<div class="content" style="margin-left: 50px;">
-			<?php $posts= getPublishedPosts();?>
+			
 			<h2 class="content-title">Recent Articles</h2>
 			<hr>
 			<!--Retreiving posts from the database-->
