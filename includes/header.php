@@ -13,6 +13,8 @@
 		<link rel="stylesheet" href="css/animate.min.css">
 		<link rel="stylesheet" href="style.css" type="text/css">
 		<link rel="stylesheet" href="blogstyle.css" type="text/css">
+		<!-- CSS only -->
+<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous"> -->
 		
 		<!--[if lt IE 9]>
 		<script src="js/ie-support/html5.js"></script>

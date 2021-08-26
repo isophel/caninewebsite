@@ -82,14 +82,17 @@
 
 				<div class="fullwidth-block offers-section" data-bg-color="#f1f1f1">
 					<div class="container">
-						<h2 class="section-title">The newest holiday offers</h2>
+						<center><h2 class="section-title">Our Tour Packages </h2></center>
 						<div class="row">
 							<div class="col-md-3 col-sm-6 col-xs-12">
 								<article class="offer wow bounceIn">
-									<figure class="featured-image"><img src="dummy/offer-thumbnail-1.jpg" alt=""></figure>
-									<h2 class="entry-title"><a href="">Nemo enim ipsam voluptatem</a></h2>
-									<p>Piditate non provident similique	 sunt in culpa qui oficia deserunt molitia animi est aborum et dolorum fuga</p>
-									<a href="#" class="button">See details</a>
+									<figure class="featured-image"><img src="images/queene.jpg" alt=""></figure>
+									<h2 class="entry-title" style="text: bold;"><a href="">Queen Elizabeth Excursion</a></h2>
+									<h3 class="duration"><i class="icon-clam"> 3 Days </i> UGX 1.85M</h3>
+									<p>The Park is understandably Uganda’s most popular tourist destination.
+										 The park’s diverse ecosystems, which include sprawling savanna,
+										  shady and humid forests. Medley Of Wonders. </p>
+									<a href="package-detail.php" class="button">See details</a>
 								</article>
 							</div>
 							<div class="col-md-3 col-sm-6 col-xs-12">

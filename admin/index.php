@@ -6,7 +6,7 @@
 <body>
 	<div class="header">
 		<div class="logo">
-			<a href="<?php echo BASE_URL .'admin/dashboard.php' ?>">
+			<a href="<?php echo BASE_URL .'admin/index.php' ?>">
 				<h1>Canine Safaris Ltd - Admin</h1>
 			</a>
 		</div>

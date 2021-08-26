@@ -309,6 +309,9 @@ table {
 .icon-towel:before {
   content: "\e609";
 }
+.icon-clock::before{
+  content: "\e610";
+}
 
 .icon-pool:before {
   content: "\e60a";
@@ -2639,9 +2642,11 @@ figure img {
 }
 .site-footer .footer-top {
   padding: 50px 0;
+  background-image: url(images/elephantee.jpg);
+  text-decoration-color: wheat;
 }
 .site-footer .footer-bottom {
-  background: #e7e7e7;
+  background: #07460218;
   padding: 50px 0;
 }
 .site-footer .branding .site-title {

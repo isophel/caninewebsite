@@ -1,10 +1,10 @@
 <footer class="site-footer wow fadeInUp">
-				<div class="footer-top">
+				<div class="footer-top" style="background-image: url(images/elephantee.jpg);  background-size: cover;">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-3 col-sm-6">
 								<div class="widget">
-									<h3 class="widget-title">About us</h3>
+									<h3 class="widget-title" style="text-color: white;">About us</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus animi asperiores magnam ducimus laboriosam soluta, odio doloribus, voluptas numquam facilis consectetur nam in repudiandae commodi odit iste sed doloremque repellat.</p>
 								</div>
 							</div>
@@ -71,7 +71,8 @@
 		<script src="js/jquery-1.11.1.min.js"></script>
 		<script src="js/min/plugins-min.js"></script>
 		<script src="js/min/app-min.js"></script>
-		
+		<!-- JavaScript Bundle with Popper -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script> -->
 	</body>
 
 </html>
